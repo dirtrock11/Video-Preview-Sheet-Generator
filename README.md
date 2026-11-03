@@ -22,8 +22,8 @@
 
 If you just want to run the application on Windows without installing Python or setting up an environment:
 
-1. Download the latest executable (`Video Preview Sheet Generator-Setup.exe`) from the **[Releases](../../releases)** page.
-2. Launch `Video Preview Sheet Generator-Setup.exe` to automatically install/run the program.
+1. Download the latest executable (`Video-Preview-Sheet-Generator-Setup.exe`) from the **[Releases](../../releases)** page.
+2. Launch `Video-Preview-Sheet-Generator-Setup.exe` to automatically install/run the program.
 3. If FFmpeg is missing from your system, the application will prompt you with a 1-click **"Install now"** option to set up FFmpeg automatically via `winget`.
 
 ## System Requirements & Prerequisites
