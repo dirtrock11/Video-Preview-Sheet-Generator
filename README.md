@@ -16,6 +16,8 @@
 
 * **Dark & Light Themes:** Toggleable UI styles with custom themes.
 
+![Video Preview Sheet Preview](preview.png)
+
 ## 🚀 Quick Start (Pre-Compiled Release)
 
 If you just want to run the application on Windows without installing Python or setting up an environment:
